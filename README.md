@@ -56,5 +56,16 @@ public class Key extends GameObject {
     }
 
 }
-
 ```
+
+### Tip Calculator 
+Programming 101 in class demo: Coded in C# <br>
+An in class demo that created a [Tip Calculator](https://gist.github.com/NPulley33/797af3cb004f54763b08b259bef83bec) to calculate an amount to tip based on the bill total and tip amount given. 
+
+### Trivia Game
+Programming 101 in class demo: Coded in C# <br>
+
+### Introduction to using WPF
+Programming 101 in class demo: Coded in C# <br>
+
+
