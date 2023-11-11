@@ -60,12 +60,20 @@ public class Key extends GameObject {
 
 ### Tip Calculator 
 Programming 101 in class demo: Coded in C# <br>
-An in class demo that created a [Tip Calculator](https://gist.github.com/NPulley33/797af3cb004f54763b08b259bef83bec) to calculate an amount to tip based on the bill total and tip amount given. 
+An in class demo that created a [Tip Calculator](https://gist.github.com/NPulley33/797af3cb004f54763b08b259bef83bec) to calculate an amount to tip based on the bill total and tip amount given. Also served as an introduction to exception handling and input validation. 
 
 ### Trivia Game
 Programming 101 in class demo: Coded in C# <br>
+An in class demo that created a quick Trivia Game. Topics covered/used: state machine using a switch/case, properties, overloaded consturctors, custom classes, & reading in external data.
 
 ### Introduction to using WPF
+![image](https://github.com/NPulley33/NPulley33.github.io/assets/149650114/54d19ada-f709-453e-9912-58ea1aa9676b)
+![image](https://github.com/NPulley33/NPulley33.github.io/assets/149650114/bf6fa8d7-73fb-48d9-882e-b4d525f970ed) <br>
+
 Programming 101 in class demo: Coded in C# <br>
+An in calss demo that served as an introduction to using WPF Applications. Topic covered/used: buttons & radio buttons, shapes, text block & boxes, colors, linking C# scripts to XMAL. 
+
+
+
 
 
